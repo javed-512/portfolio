@@ -1,0 +1,21 @@
+.header{
+    background-color: aliceblue;
+    height: 100px;
+    text-decoration: none;
+    letter-spacing: 2pxl;
+    text-align: center;
+    padding: 10px;
+    margin: 0 10px;
+    text-decoration: underline;
+}
+.nav ul li {
+text-align: center;
+
+}
+.main-header{
+    display: flex;
+    margin: ;
+}
+.span{
+    height: 32px;
+}
